@@ -4,6 +4,27 @@
   
   
   <entry>
+    <title>程序员还是要多写点程序</title>
+    <link href="/2025/08/30/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%BF%98%E6%98%AF%E8%A6%81%E5%A4%9A%E5%86%99%E7%82%B9%E7%A8%8B%E5%BA%8F/"/>
+    <url>/2025/08/30/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%BF%98%E6%98%AF%E8%A6%81%E5%A4%9A%E5%86%99%E7%82%B9%E7%A8%8B%E5%BA%8F/</url>
+    
+    <content type="html"><![CDATA[<pre><code class="hljs">今天是8月30号了，七夕终于过去了，舒服.......已经是单身的第25个年头了，希望多敲点代码，好好加油！最后来点八岐大蛇定型文呗：我没要求你永远用最优解。我不是大神。可是，你随便写 if(true) 是什么意思? 你的代码风格怎么了?你才21岁吧? 再这样下去，你42行代码复制四次，84行代码复制八次，最后就全是 bug 堆成山了。作为代码审查人，我可能得罚你 50 行注释。真的。</code></pre><p><img src="/img/engineer.png" alt="此处应有老头"></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Learning</tag>
+      
+      <tag>Programing</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2025/08/29/hello-world/"/>
     <url>/2025/08/29/hello-world/</url>
